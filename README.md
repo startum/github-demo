@@ -1,5 +1,5 @@
 # github-demo
-Demo of lovable github tutorial
+Demo of how to use github in lovable and claude tutorial
 
 Editing this for the demo
 
